@@ -18,6 +18,7 @@ import 'package:nutricare/randomutilities/bottomnavigationbarpagemanager.dart';
 import 'nutritionix/nutrionixexercise.dart';
 import 'nutritionix/nutritionixapi.dart';
 
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
